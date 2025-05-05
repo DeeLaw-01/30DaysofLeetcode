@@ -26,8 +26,8 @@ public:
           }
           for (int II = I + 1; II < size; ++II) {
             if (II > I + 1 && nums[II] == nums[II - 1]) {
-    continue;
-}
+                continue;
+            }
               compliment = -(nums[I] + nums[II]);
               if (map.count(compliment) && map[compliment] != I && map[compliment] != II) {
                   std::vector<int> triplet = { nums[I], nums[II], compliment };
