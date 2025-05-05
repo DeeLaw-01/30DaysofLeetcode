@@ -15,4 +15,12 @@ Osama Bin Codin'
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
