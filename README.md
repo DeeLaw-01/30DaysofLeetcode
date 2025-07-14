@@ -6,10 +6,12 @@ Osama Bin Codin'
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -24,6 +26,7 @@ Osama Bin Codin'
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/DeeLaw-01/30DaysofLeetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
